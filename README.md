@@ -1,4 +1,4 @@
-# ihavenoenemy
+# ihavenoenemy - 3Blue1Brown-Style Math Animation Platform
 
 AI-Powered Mathematical Animation Platform
 
@@ -337,3 +337,19 @@ For issues and questions:
 ---
 
 Built with passion for mathematics education.
+
+## ✨ 3Blue1Brown Style Features
+
+This platform creates animations matching 3Blue1Brown's world-class quality:
+
+- **Dark Background**: Signature #0C0D0F background color
+- **Color Palette**: Blue (#58C4DD), Yellow (#FCBA03), Red (#FC6255)
+- **Storytelling**: 4-act structure (Hook → Build → Reveal → Conclusion)
+- **Smooth Motion**: rate_func=smooth on all animations
+- **Progressive Revelation**: Build complexity layer by layer
+- **Emphasis**: Indicate() for "aha!" moments
+- **Pulsing Effects**: Breathing, alive visuals
+
+---
+
+🎉 **Creating world-class mathematical animations since 2025** 🎉
