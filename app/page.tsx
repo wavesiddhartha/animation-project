@@ -190,7 +190,7 @@ export default function Home() {
               transition={{ delay: 0.2 }}
               className="text-xl text-gray-600 mb-12 text-center max-w-2xl leading-relaxed"
             >
-              Enter any mathematical concept and I'll create a beautiful animated explanation
+              Enter any mathematical concept and I&apos;ll create a beautiful animated explanation
             </motion.p>
 
             {/* Centered Search Input on Homepage */}
