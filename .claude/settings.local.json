@@ -16,7 +16,13 @@
       "Bash(python3:*)",
       "Bash(manim:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: ihavenoenemy - 3Blue1Brown-style Math Animation Platform\n\n🎨 Features:\n- AI-powered mathematical animations using Manim\n- 3Blue1Brown-quality visualizations\n- Dark background with signature color palette\n- Mathematical storytelling (4-act structure)\n- Smooth, flowing animations with rate_func=smooth\n- Progressive revelation and intuition building\n- Advanced techniques: Transform, Indicate, AnimationGroup, VGroup\n\n🚀 Tech Stack:\n- Next.js 15.5.5 with App Router\n- Manim Community Edition for animations\n- Qwen 2.5 72B Instruct AI via OpenRouter\n- Framer Motion for UI animations\n- Tailwind CSS for styling\n- TypeScript for type safety\n\n✨ Quality:\n- 95%+ render success rate\n- 4-7/7 quality score (advanced techniques)\n- Professional cinematography\n- Beautiful color harmony\n\n📚 Documentation:\n- Complete 3Blue1Brown style guide\n- System optimization guide\n- Bug fixes and improvements\n- Technical implementation details\n\n🤖 Generated with Claude Code\nhttps://claude.com/claude-code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
